@@ -7,6 +7,6 @@ public class Test {
         Fan fan = new Fan();
         fan.turnOn();
         fan.turnOn();
-
+        //System.out.println(fan.isOn);
     }
 }

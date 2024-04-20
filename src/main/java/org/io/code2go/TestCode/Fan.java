@@ -1,8 +1,8 @@
 package org.io.code2go.TestCode;
 
-class Fan {
+public class Fan {
 
-    private boolean isOn;
+    protected boolean isOn;
 
     public void turnOn() {
         isOn = true;
@@ -13,4 +13,5 @@ class Fan {
         isOn = false;
         System.out.println("Fan is Stopped");
     }
+
 }
