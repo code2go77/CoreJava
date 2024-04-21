@@ -7,10 +7,14 @@ org\io\code2go\Java8Features\defaultmethod\MyClass.class
 org\io\code2go\Java8Features\defaultmethod\Test.class
 org\io\code2go\Java8Features\functionalProgramming\Interfaces$1.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer$MyConsumer.class
+org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\Ostrich.class
+org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\FlyingBirds.class
 org\io\code2go\DesignPattern\SolidPrinciple\SRP\Scheduller.class
+org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\BirdBase.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\AreaCalculator.class
 org\io\code2go\Arrays\TwoNumberSum.class
 org\io\code2go\Generics\LambdaBasic$StringLength.class
+org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\Sparrow.class
 org\io\code2go\Generics\LambdaBasic.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\Circle.class
 org\io\code2go\Java8Features\defaultmethod\Interface1.class
@@ -28,6 +32,7 @@ org\io\code2go\Arrays\ThreeNumberSum.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer.class
 org\io\code2go\Lists\RemoveDuplicates.class
 org\io\code2go\Lists\DriverMain.class
+org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\LiskovSPDriver.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\Rectangle.class
 org\io\code2go\Java8Features\functionalProgramming\Interfaces.class
 org\io\code2go\DesignPattern\SolidPrinciple\SRP\TaskDriver.class

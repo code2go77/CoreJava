@@ -1,6 +1,8 @@
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\SRP\TaskDriver.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\TestCode\Test.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\Ostrich.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\functionalProgramming\TestMain.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\BirdBase.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\Rectangle.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\AreaCalculator.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Arrays\SortedSquareArray.java
@@ -12,10 +14,13 @@ D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrin
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Generics\LambdaBasic.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\defaultmethod\MyClass.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Lists\Students.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\LiskovSPDriver.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\defaultmethod\Interface2.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Arrays\ThreeNumberSum.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\FlyingBirds.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Generics\Test.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Arrays\TwoNumberSum.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitution\Sparrow.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\functionalProgramming\Interfaces.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\SRP\SaveToDb.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\defaultmethod\Interface1.java
