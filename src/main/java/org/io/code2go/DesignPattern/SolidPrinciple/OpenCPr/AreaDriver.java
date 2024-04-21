@@ -1,7 +1,7 @@
 package org.io.code2go.DesignPattern.SolidPrinciple.OpenCPr;
 
 /*Open closed Principle : Defines that the class, method, etc. open for extension
-and not for modification*/
+and not for modifications*/
 
 public class AreaDriver {
     public static void main(String[] args) {
