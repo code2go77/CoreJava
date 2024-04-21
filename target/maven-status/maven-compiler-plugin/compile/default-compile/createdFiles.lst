@@ -9,9 +9,11 @@ org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\TaskDr
 org\io\code2go\Java8Features\defaultmethod\MyClass.class
 org\io\code2go\Java8Features\defaultmethod\Test.class
 org\io\code2go\Java8Features\functionalProgramming\Interfaces$1.class
+org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\InterfaceSPDriver.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer$MyConsumer.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\Shape.class
 org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\SendNotification.class
+org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\Worker.class
 org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\BirdBase.class
 org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\FlyingBirds.class
 org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\Scheduller.class
@@ -20,10 +22,13 @@ org\io\code2go\Generics\LambdaBasic$StringLength.class
 org\io\code2go\Generics\LambdaBasic.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\AreaCalculator.class
 org\io\code2go\Java8Features\defaultmethod\Interface1.class
+org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\Robot.class
 org\io\code2go\Lists\Students.class
+org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\Sleep.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\AreaDriver.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\Circle.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer$1.class
+org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\Human.class
 org\io\code2go\Java8Features\functionalProgramming\TestMain.class
 org\io\code2go\Java8Features\stream\StreamExample.class
 org\io\code2go\Java8Features\functionalProgramming\Employees.class
