@@ -8,11 +8,15 @@ org\io\code2go\Java8Features\defaultmethod\Test.class
 org\io\code2go\Java8Features\functionalProgramming\Interfaces$1.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer$MyConsumer.class
 org\io\code2go\DesignPattern\SolidPrinciple\SRP\Scheduller.class
+org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\AreaCalculator.class
 org\io\code2go\Arrays\TwoNumberSum.class
 org\io\code2go\Generics\LambdaBasic$StringLength.class
 org\io\code2go\Generics\LambdaBasic.class
+org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\Circle.class
 org\io\code2go\Java8Features\defaultmethod\Interface1.class
+org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\Shape.class
 org\io\code2go\Lists\Students.class
+org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\AreaDriver.class
 org\io\code2go\DesignPattern\SolidPrinciple\SRP\Compute.class
 org\io\code2go\DesignPattern\SolidPrinciple\SRP\SendNotification.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer$1.class
@@ -24,5 +28,6 @@ org\io\code2go\Arrays\ThreeNumberSum.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer.class
 org\io\code2go\Lists\RemoveDuplicates.class
 org\io\code2go\Lists\DriverMain.class
+org\io\code2go\DesignPattern\SolidPrinciple\OpenCPr\Rectangle.class
 org\io\code2go\Java8Features\functionalProgramming\Interfaces.class
 org\io\code2go\DesignPattern\SolidPrinciple\SRP\TaskDriver.class
