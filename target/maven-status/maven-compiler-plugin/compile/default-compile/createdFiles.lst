@@ -18,9 +18,11 @@ org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\BirdBase
 org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\FlyingBirds.class
 org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\Scheduller.class
 org\io\code2go\Arrays\TwoNumberSum.class
+org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\InterfaceDIPDriver.class
 org\io\code2go\Generics\LambdaBasic$StringLength.class
 org\io\code2go\Generics\LambdaBasic.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\AreaCalculator.class
+org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\LogToDb.class
 org\io\code2go\Java8Features\defaultmethod\Interface1.class
 org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\Robot.class
 org\io\code2go\Lists\Students.class
@@ -31,6 +33,8 @@ org\io\code2go\Java8Features\JavaforEachWithConsumer$1.class
 org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\Human.class
 org\io\code2go\Java8Features\functionalProgramming\TestMain.class
 org\io\code2go\Java8Features\stream\StreamExample.class
+org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\ILogger.class
+org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\Logger.class
 org\io\code2go\Java8Features\functionalProgramming\Employees.class
 org\io\code2go\Arrays\ThreeNumberSum.class
 org\io\code2go\Java8Features\JavaforEachWithConsumer.class
@@ -41,3 +45,4 @@ org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\Ostrich.
 org\io\code2go\Java8Features\functionalProgramming\Interfaces.class
 org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\Rectangle.class
 org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\SaveToDb.class
+org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\LogToFile.class

@@ -13,6 +13,7 @@ D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrin
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Generics\LambdaBasic.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\defaultmethod\MyClass.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\Rectangle.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\LogToFile.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Lists\Students.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\SendNotification.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\AreaCalculator.java
@@ -22,6 +23,8 @@ D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Arrays\ThreeNumberSum.j
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\InterfaceSPDriver.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Generics\Test.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Arrays\TwoNumberSum.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\Logger.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\InterfaceDIPDriver.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\Ostrich.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\functionalProgramming\Interfaces.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\SaveToDb.java
@@ -30,10 +33,12 @@ D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrin
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\InterfaceSegregationPrinciple\Worker.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\OpenClosedPrinciple\Shape.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\FlyingBirds.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\LogToDb.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\functionalProgramming\Employees.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\defaultmethod\Test.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Java8Features\JavaforEachWithConsumer.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\LiskovSubstitutionPrinciple\LiskovSPDriver.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Lists\DriverMain.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\Lists\RemoveDuplicates.java
+D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\DependencyInversionPrinciple\ILogger.java
 D:\Vikas\VJ-Source\CoreJava\src\main\java\org\io\code2go\DesignPattern\SolidPrinciple\SingleResponsibilityPrinciple\Scheduller.java
